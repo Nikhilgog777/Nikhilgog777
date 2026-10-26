@@ -1,27 +1,18 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,30&height=220&section=header&text=Hi%20there,%20I'm%20Nikhil%20Goswami%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20AI%20%26%20DS%20%2728%20%7C%20Aspiring%20Data%20Scientist%20%26%20ML%20Engineer&descFontSize=18&descAlignY=58&descAlign=50" alt="Header Banner" width="100%" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer Banner" width="100%" height="260" style="object-fit: cover; border-radius: 12px;" />
+
+  <br /><br />
+
+  <h1 align="center">
+    Hi there, I'm Nikhil Goswami <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px" alt="Waving Hand" />
+  </h1>
 
   <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=B.Tech+AI+%26+Data+Science+(Class+of+2028);Machine+Learning+%26+Data+Science+Enthusiast;Python+Developer+%7C+Problem+Solver;Building+Strong+Foundations+One+Commit+At+A+Time" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=B.Tech+AI+%26+Data+Science+(Class+of+2028);Machine+Learning+%26+Data+Science+Enthusiast;Python+Developer+%7C+Problem+Solver;Building+ML+Foundations+One+Commit+At+A+Time" alt="Typing SVG" />
   </a>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/nikhil-goswami-nik777" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://x.com/Nikhil_giri_777" target="_blank">
-      <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-    </a>
-    <a href="https://github.com/Nikhilgog777" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="mailto:your-email@example.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
 
 </div>
 
@@ -119,26 +110,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhilgog777&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
 </div>
 
----
-
-### 🤝 Let's Connect!
-
-I am always excited to collaborate on open-source projects, discuss machine learning architectures, or connect with peers in tech.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nikhil-goswami-nik777">
-    <img src="https://img.shields.io/badge/LinkedIn-Nikhil%20Goswami-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/Nikhil_giri_777">
-    <img src="https://img.shields.io/badge/X-@Nikhil__giri__777-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Nikhilgog777">
-    <img src="https://img.shields.io/badge/GitHub-Nikhilgog777-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<br />
 
 <div align="center">
-  <sub>⭐️ Profile design curated for <b>Nikhil Goswami</b>. Feel free to explore my repositories!</sub>
+  <sub>⭐️ Profile design curated for <b>Nikhil Goswami</b>. Welcome to my repositories!</sub>
 </div>
